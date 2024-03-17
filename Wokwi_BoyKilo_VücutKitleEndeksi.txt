@@ -1,0 +1,8 @@
+
+
+
+Esp32, ultrasonic sensor ve lcd(20x4) ile projemi hazırladım
+
+
+https://wokwi.com/projects/387275572340672513
+
